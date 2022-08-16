@@ -1,6 +1,5 @@
 Morph openapi test
 ===================================
 
-.. openapi:: openapi.yaml
-   :paths:
+.. openapi:httpdomain:: openapi.yaml
    :encoding: utf-8
