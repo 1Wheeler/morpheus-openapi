@@ -1,3 +1,3 @@
 master_doc = 'index'
 
-extensions = ["sphinxcontrib.openapi"]
+extensions = ["sphinxcontrib.httpdomain","sphinxcontrib.openapi"]
