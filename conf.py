@@ -1,6 +1,6 @@
 master_doc = 'index'
 
-extensions = ["sphinxcontrib.httpdomain","sphinxcontrib.openapi"]
+extensions = ['sphinxcontrib.httpdomain','sphinxcontrib.openapi','M2R2']
 
 """Patching m2r2"""
 import m2r2
