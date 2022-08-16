@@ -1,4 +1,4 @@
 Morph openapi test
 ===================================
 
-.. openapi:httpdomain:: bundled.yaml
+.. openapi:httpdomain:: openapi.yaml
