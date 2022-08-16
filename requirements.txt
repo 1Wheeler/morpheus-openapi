@@ -1,2 +1,2 @@
-sphinxcontrib-openapi
+sphinxcontrib-openapi==master
 mistune==0.8.4
